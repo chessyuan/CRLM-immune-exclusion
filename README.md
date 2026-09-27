@@ -26,17 +26,17 @@ The investigation integrates:
 ```
 PUBLIC_REPOSITORY_READY/
 ├── analysis_scripts/
-│   ├── 01_bulk_meta_analysis.py
-│   ├── 02_single_cell_pseudobulk.py
-│   ├── 03_spatial_hierarchical_synthesis.py
-│   ├── 04_machine_learning_benchmark.py
-│   ├── 05_causal_genetics_mr_coloc.py
-│   ├── 06_target_prioritization.py
-│   └── 07_generate_all_figures.py
+�?  ├── 01_bulk_meta_analysis.py
+�?  ├── 02_single_cell_pseudobulk.py
+�?  ├── 03_spatial_hierarchical_synthesis.py
+�?  ├── 04_machine_learning_benchmark.py
+�?  ├── 05_causal_genetics_mr_coloc.py
+�?  ├── 06_target_prioritization.py
+�?  └── 07_generate_all_figures.py
 ├── metadata/
-│   ├── data_registry.tsv
-│   ├── candidate_ranking.tsv
-│   └── clinical_trial_registry.tsv
+�?  ├── data_registry.tsv
+�?  ├── candidate_ranking.tsv
+�?  └── clinical_trial_registry.tsv
 ├── environment.yml
 ├── requirements.txt
 ├── .gitignore
@@ -50,7 +50,7 @@ PUBLIC_REPOSITORY_READY/
 ```bash
 # Clone the repository
 git clone https://github.com/chessyuan/CRLM-immune-exclusion.git
-cd CRLM_Stromal_Vascular_Exclusion
+cd CRLM-immune-exclusion
 
 # Create conda environment
 conda env create -f environment.yml
