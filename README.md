@@ -1,9 +1,6 @@
 # Cross-Cohort Single-Cell and Spatial Prioritization of Stromal-Vascular Programs Associated with Immune Exclusion in Microsatellite-Stable Colorectal Liver Metastasis
 
-**Author**: chessyuan  
-**Affiliation**: the academic department, the institution, [location redacted]  
-**Contact**: [redacted] | [redacted]  
-**ORCID**: [researcher identifier redacted]  
+**Project support**: Please use GitHub Issues for questions and reproducibility reports.
 
 ---
 
